@@ -43,7 +43,8 @@
 <hr>  
 
 ### 스퀘어 에닉스  
-![스퀘어에닉스1](/square/square.png) ![스퀘어에닉스2](/square/square_collective.jpg)  
+![스퀘어에닉스1](/square/square.png) ![스퀘어에닉스2](/square/square_collective.jpg)  
+
 파이널 판타지로 유명한 게임이다.  
 <hr>  
 
